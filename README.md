@@ -8,6 +8,7 @@
 
 
 
+
 [![Documentation](https://img.shields.io/badge/Documentation-tinyGPT-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/)
 [![Detailed Results](https://img.shields.io/badge/Detailed%20Results-View-purple?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/results/)
 [![How It Works](https://img.shields.io/badge/How%20It%20Works-Documentaion-red?style=for-the-badge&logo=googlescholar&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/how-it-works/autograd/)
