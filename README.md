@@ -13,7 +13,7 @@
 
 </div>
 
-A character-level transformer implemented entirely from scratch in C++ — no ML libraries, no autograd framework, no BLAS. Every tensor op, backward rule, and the Adam optimizer are hand-derived on top of a self-built matrix autograd engine.
+A character-level transformer implemented entirely from scratch in C++ — no ML libraries, no external autograd framework, no BLAS. Every tensor op, backward rule, and the Adam optimizer are hand-derived on top of a self-built matrix autograd engine.
 
 Two versions:
 - **tinygpt** — single head, single block, no LayerNorm
