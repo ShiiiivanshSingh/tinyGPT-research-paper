@@ -6,6 +6,7 @@
 
 [![Source Code](https://img.shields.io/badge/Source%20Code-tinyGPT-red?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ShiiiivanshSingh/tinyGPT)
 
+
 [![Documentation](https://img.shields.io/badge/Documentation-tinyGPT-475569?style=for-the-badge\&logo=gitbook\&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/)
 [![Detailed Results](https://img.shields.io/badge/Detailed%20Results-View-059669?style=for-the-badge\&logo=chartdotjs\&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/results/)
 [![How It Works](https://img.shields.io/badge/How%20It%20Works-Documentation-2563EB?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/how-it-works/autograd/)
