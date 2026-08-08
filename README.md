@@ -46,7 +46,7 @@ tinygpt2's added multi-head attention and Pre-LayerNorm reduce final loss from 1
 
 ## Paper
 
-Full writeup: [`Reseach_Paper.pdf`](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/tinyGPT_ICDT2026.pdf)) — covers the autograd engine, a reference-cycle memory bug in the backward closures, and the multi-head attention / LayerNorm backward derivations.
+Full writeup: [`Reseach_Paper.pdf`](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/tinyGPT_ICDT2026.pdf) — covers the autograd engine, a reference-cycle memory bug in the backward closures, and the multi-head attention / LayerNorm backward derivations.
 </div>
 
 ## Author
