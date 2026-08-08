@@ -2,14 +2,15 @@
 
 # tinyGPT
 
+[![Read My Paper](https://img.shields.io/badge/Read%20My%20Paper-View%20PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/tinyGPT_ICDT2026.pdf)
 
 [![Source Code](https://img.shields.io/badge/Source%20Code-tinyGPT-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShiiiivanshSingh/tinyGPT)
-[![Live Paper](https://img.shields.io/badge/Live%20Paper-View%20PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/tinyGPT_ICDT2026.pdf)
+
 
 
 [![Documentation](https://img.shields.io/badge/Documentation-tinyGPT-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/)
 [![Detailed Results](https://img.shields.io/badge/Detailed%20Results-View-purple?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/results/)
-[![How It Works](https://img.shields.io/badge/How%20It%20Works-Autograd-red?style=for-the-badge&logo=googlescholar&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/how-it-works/autograd/)
+[![How It Works](https://img.shields.io/badge/How%20It%20Works-Documentaion-red?style=for-the-badge&logo=googlescholar&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/how-it-works/autograd/)
 
 
 </div>
