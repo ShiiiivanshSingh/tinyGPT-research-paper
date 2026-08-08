@@ -1,4 +1,17 @@
+<div align = "center">
+  
 # tinyGPT
+
+  
+[![Live Paper](https://img.shields.io/badge/Live%20Paper-View%20PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/)
+[![Documentation](https://img.shields.io/badge/Documentation-tinyGPT-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/)
+
+
+[![Detailed Results](https://img.shields.io/badge/Detailed%20Results-View-purple?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/results/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-success?style=for-the-badge&logo=github)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/)
+
+
+</div>
 
 A character-level transformer implemented entirely from scratch in C++ — no ML libraries, no autograd framework, no BLAS. Every tensor op, backward rule, and the Adam optimizer are hand-derived on top of a self-built matrix autograd engine.
 
