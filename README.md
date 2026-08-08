@@ -1,14 +1,15 @@
 <div align = "center">
-  
+
 # tinyGPT
 
-  
-[![Live Paper](https://img.shields.io/badge/Live%20Paper-View%20PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/)
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-tinyGPT-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShiiiivanshSingh/tinyGPT)
+[![Live Paper](https://img.shields.io/badge/Live%20Paper-View%20PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/tinyGPT_ICDT2026.pdf)
+
+
 [![Documentation](https://img.shields.io/badge/Documentation-tinyGPT-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/)
-
-
 [![Detailed Results](https://img.shields.io/badge/Detailed%20Results-View-purple?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/results/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-success?style=for-the-badge&logo=github)](https://shiiiivanshsingh.github.io/tinyGPT-research-paper/)
+[![How It Works](https://img.shields.io/badge/How%20It%20Works-Autograd-red?style=for-the-badge&logo=googlescholar&logoColor=white)](https://shiiiivanshsingh.github.io/tinyGPT/how-it-works/autograd/)
 
 
 </div>
@@ -21,6 +22,10 @@ Two versions:
 
 Both trained on *Alice's Adventures in Wonderland* (~50 KB, 64 unique characters).
 
+
+
+<div align = "center">
+
 ## Results
 
 | Iter | tinygpt (8k) | tinygpt2 (10k) | tinygpt2 (20k) |
@@ -32,11 +37,14 @@ Both trained on *Alice's Adventures in Wonderland* (~50 KB, 64 unique characters
 | 18800 | — | — | 1.34 (best) |
 | 20000 | — | — | 1.40 |
 
+</div>
+
 tinygpt2's added multi-head attention and Pre-LayerNorm reduce final loss from 1.77 to 1.59 at comparable iteration counts, and to 1.40 with extended training. LayerNorm was deliberately omitted from tinygpt — it was implemented and verified correct via numerical gradient checking, but converged more slowly at the single-block scale.
 
 ## Paper
 
 Full writeup: [`tinyGPT_ICDT2026.pdf`](./tinyGPT_ICDT2026.pdf) — covers the autograd engine, a reference-cycle memory bug in the backward closures, and the multi-head attention / LayerNorm backward derivations.
+</div>
 
 ## Author
 
