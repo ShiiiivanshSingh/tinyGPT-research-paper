@@ -17,7 +17,7 @@ A character-level transformer implemented entirely from scratch in C++ — no ML
 
 Two versions:
 - **tinygpt** — single head, single block, no LayerNorm
-- **tinygpt2** — 4 heads, 2 blocks, Pre-LayerNorm
+- **tinygpt2** — 4 heads, 2 blocks, Pre-LayerNorm 
 
 Both trained on *Alice's Adventures in Wonderland* (~50 KB, 64 unique characters).
 
